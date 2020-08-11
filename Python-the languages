@@ -35,3 +35,11 @@ this is example of python
 print("Hello, World!")
 ~~~
 
+*** Creating a Comment ***
+Comments starts with a #, and Python will ignore them:
+
+Example
+~~~
+#This is a comment
+print("Hello, World!")
+~~~
