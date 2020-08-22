@@ -22,3 +22,4 @@ if __name__ == "__main__":
     num = int(input("enter a number"))
     print(f"using recursion the value of fib({num}) is {fiboRec(num)}")
     print(f"using recursion the value of fib({num}) is {fiboIte(num)}")
+#during the problem, the recursive take more time to calculate the fibonacci series. as iteration take less time to calculate.
